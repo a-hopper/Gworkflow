@@ -1,6 +1,6 @@
 # mirrorbot-workflow
 
-You can use this [repo](https://github.com/lzzy12/python-aria-mirror-bot)
+You can use this [repo](https://github.com/magneto261290/magneto-python-aria)
 
 First setup everything then push to your private Repository
 
@@ -19,4 +19,4 @@ Change username environment variable
 
 And That's it.
 
-©ElytrA8
+
