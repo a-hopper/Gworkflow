@@ -17,6 +17,8 @@ then go .github/workflows/*.yml
 
 Change username environment variable 
 
+For build status check Actions
+
 And That's it.
 
 
